@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{s0bz:function(s,c,n){"use strict";n.r(c),function(s){c.default=()=>s("div",{class:"_technical-page"},s("div",{class:"_container"},"Не найдено ¯\\_(ツ)_/¯"))}.call(this,n("hosL").h)}}]);
+//# sourceMappingURL=route-404.chunk.544c0.esm.js.map
